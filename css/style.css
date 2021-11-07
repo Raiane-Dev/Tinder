@@ -460,3 +460,10 @@ div.footer a{
 .swiper-slide.swiper-slide-prev{
     transition-duration:5s;
 }
+div.usuario-imagem img{
+    width: 100%;
+    border-radius: 20px;
+    max-height:60vh;
+    min-height:60vh;
+    object-fit: cover;
+}
