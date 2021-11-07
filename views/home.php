@@ -37,7 +37,7 @@
 			<div class="card">
 				<div class="slider-text">
                     <div class="usuario-imagem">
-                        <img src="<?php echo $value['imagem'] ?>" />
+                        <img src="<?php echo INCLUDE_PATH ?>imagens/<?php echo $value['imagem'] ?>" />
                     </div><!--usuario-imagem-->
                     <div class="opcoes-usuario">
                     <?php
