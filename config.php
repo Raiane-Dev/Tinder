@@ -1,5 +1,5 @@
 <?php
-    define('INCLUDE_PATH','http://localhost/Curso/Projeto/Tinder/');
+    define('INCLUDE_PATH','http://localhost/Tinder/');
 
     define('HOST','localhost');
     define('DATABASE','tinder');
